@@ -2,8 +2,8 @@
 # account, at Casks/baretab.rb. Update `version` and `sha256` for each release; the sha is
 # printed by scripts/release.sh and attached to the GitHub Release as a .sha256 file.
 cask "baretab" do
-  version "0.1.0"
-  sha256 "34a7a65b379282284ec562a15a8fccb23ad14511304a9deee343baa670b26405"
+  version "0.1.1"
+  sha256 "bd4c822e4c1d8409e700996cc31cdb78f1b1eb7e85dafee932bd8603853bffe8"
 
   url "https://github.com/marcusmalloc/alt-tab-macos-but-free/releases/download/v#{version}/BareTab-#{version}.zip"
   name "BareTab"
